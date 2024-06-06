@@ -4,5 +4,12 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+- a normal guy with a normal life
+- hanoian, socialist republic of vietnam
+- focusing on forensic and OSINT
+- currently studying at [**Academy of Cryptography Techniques](https://www.facebook.com/hocvienkythuatmatma) (KMA)**
+
+where to find me:
+- discord: @kkoshix
+
+![KMA](/assets/kmaLogoExplain.jpg)
