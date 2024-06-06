@@ -12,4 +12,4 @@ order: 4
 where to find me:
 - discord: @kkoshix
 
-![KMA](/assets/kmaLogoExplain.jpg)
+![KMA](/assets/img/kmaLogoExplain.jpg)
